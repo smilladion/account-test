@@ -1,0 +1,3 @@
+[submodule "account-fe"]
+	path = account-fe
+	url = https://github.com/smilladion/account-fe.git
