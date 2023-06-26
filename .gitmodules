@@ -1,3 +1,6 @@
 [submodule "account-fe"]
 	path = account-fe
 	url = https://github.com/smilladion/account-fe.git
+[submodule "account-be"]
+	path = account-be
+	url = https://github.com/smilladion/account-be.git
